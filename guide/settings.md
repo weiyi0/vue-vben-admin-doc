@@ -284,7 +284,7 @@ const setting: ProjectConfig = {
     showQuick: true,
     // 是否可以拖拽
     canDrag: true,
-    // 是否显示刷新那妞
+    // 是否显示刷新按钮
     showRedo: true,
     // 是否显示折叠按钮
     showFold: true,
